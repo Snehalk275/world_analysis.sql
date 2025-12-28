@@ -3,6 +3,7 @@ This repository contains my SQL practice work using the MySQL World (City–Coun
 I used this dataset to practice writing queries on real-world country, city, and population data and to improve my understanding of how relational databases work.
 
 What I practiced
+
 Filtering data using WHERE
 Aggregations with GROUP BY
 Working with multiple tables using JOIN
