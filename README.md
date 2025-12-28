@@ -4,12 +4,14 @@ I used this dataset to practice writing queries on real-world country, city, and
 
 What I practiced
 
-Filtering data using WHERE
-Aggregations with GROUP BY
-Working with multiple tables using JOIN
-Subqueries and CTEs
+Filtering data using WHERE,
+Aggregations with GROUP BY,
+Working with multiple tables using JOIN,
+Subqueries and CTEs,
 Basic analytical queries
+
 Tools
+
 MySQL Workbench
 SQL
 
